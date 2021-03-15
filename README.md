@@ -1,4 +1,4 @@
-A basic package used for scraping emails from a website where parameters are defined in the cofig file
+A basic package used for scraping emails from a website where parameters are defined in the config file
 
 
 ## Configuration
