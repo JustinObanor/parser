@@ -1,0 +1,3 @@
+URL = "https://www.bsuir.by/en/"
+MaxDepth = 4
+OutputFile = "bsuir.xml"
